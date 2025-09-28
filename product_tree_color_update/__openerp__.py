@@ -12,7 +12,7 @@
     """,
 
 
-    'author': "mohamed.sharaf.mo@gmail.com",
+    'author': "Py-Squad",
     'website': "https://eg.linkedin.com/in/mohamedsharafmo",
 
     # Categories can be used to filter modules in modules listing
